@@ -1,0 +1,75 @@
+body {
+
+    width: 90%;
+    max-width: auto;
+    min-width: auto;
+    margin: 5px auto;
+    background-color: rgb(2, 55, 79);
+    color: white;
+    viewport-fit: 100%;
+    font-family: 'Oswald', sans-serif; 
+
+}
+
+#header {
+
+    width: 100%;
+    height: auto;
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top: 10px;
+
+}
+
+#nav {
+
+    width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+    margin-top: 10px;
+
+}
+
+#section {
+
+    width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+    margin-top: 10px;
+
+}
+
+#footer {
+
+    width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+    margin-top: 10px;
+
+}
+
+#menu-r {
+
+    list-style: none;
+    padding: 0;
+
+}
+
+#menu-r li {
+
+    display: inline;
+
+}
+
+#menu-r li a {
+
+    display: inline-block;
+    padding: 7px;
+
+}
+
+.imgs {
+
+    height: 30px;
+}
+
